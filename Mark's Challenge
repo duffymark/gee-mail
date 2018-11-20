@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<script src="js/mail-generator.js"></script>
+		<link href="css/style.css" rel="stylesheet" media="screen">
+    <script>
+      window.onload = function(){
+        // ALL OF YOUR JAVASCRIPT CODE SHOULD GO HERE. 
+        // We have to use window.onload so your JavaScript doesn't execute until the page has loaded and all HTML has been downloaded to your browser
+        
+      };
+    </script>
+	</head>
+	<style type="text/css">
+		h1 {
+			color: red;
+		}
+	</style>
+	<body>
+		<h1>GEE-MAIL</h1>
+
+		<header> 
+	<width: 100%;
+	height: 80px;
+	background-color: #000>
+		
+		<div>
+
+
+
+	</body>
+	<table border="1">
+		<tr>
+			<td>Subject</td>
+			<td>Sender</td>
+			<td>Email Details</td>
+		</tr>
+</html>
